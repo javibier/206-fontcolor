@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  font-family: 'Blinker', sans-serif;
+  font-family: 'Nunito', sans-serif;
   color: #4eafb8;
 }
 
@@ -30,7 +30,8 @@ p {
     background: red;
   }
     h1 {
-    color: #02cbd2; 
+    color: #02cbd2;
+    font-family: 'Montserrat', sans-serif;
     }
     h2 {
     color: #fcc02a; 
