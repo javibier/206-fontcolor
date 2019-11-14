@@ -2,6 +2,7 @@ body, html {
   text-align: center;
   font-family: Gotham, Helvetica, Arial, sans-serif;
   font-size: 1em;
+  background: blue;
 }
 
 section {
@@ -11,7 +12,7 @@ section {
 
 h1 {
   font-size: 2em;
-  
+  color: orange;
 }
 
 h2 {
@@ -20,16 +21,22 @@ h2 {
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
-	body {
-        background: red;
+  body {
+    background: red;
   }
-
+    h1 {
+    color: #02cbd2; 
+    }
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
 @media (min-width: 1200px) {
     body {
-    background: green; 
+    background: green;
+  }
+    h1 {
+    color: #6e4b61; 
     }
+}
 }
 
