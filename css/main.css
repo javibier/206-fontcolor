@@ -20,6 +20,10 @@ h2 {
   color: #4eafb8;
 }
 
+p {
+  color: #ff8641;
+}
+
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
   body {
