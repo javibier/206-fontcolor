@@ -24,7 +24,7 @@ h2 {
         background: red;
   }
 
-    h1 {
+    section h1 {
     	color: #02cbd2;
     }
 }
@@ -35,8 +35,8 @@ h2 {
     background: green; 
     }
     
-    h1 {
-    	color: 	#6e4b61;
+    section h1 {
+    	color: green;
     }
 }
 
