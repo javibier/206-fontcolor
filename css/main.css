@@ -24,19 +24,12 @@ h2 {
         background: red;
   }
 
-    section h1 {
-    	color: #02cbd2;
-    }
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
 @media (min-width: 1200px) {
     body {
     background: green; 
-    }
-    
-    section h1 {
-    	color: green;
     }
 }
 
