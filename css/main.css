@@ -16,6 +16,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
+  font-family: 'Blinker', sans-serif;
   color: #4eafb8;
 }
 
@@ -45,8 +46,11 @@ p {
     background: green;
   }
     h1 {
-    color: #6e4b61; 
+    color: #6e4b61;
+    font-family: 'Blinker', sans-serif;
     }
+
+
     h2 {
     color: #cabd61; 
     }
