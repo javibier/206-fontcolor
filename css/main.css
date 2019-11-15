@@ -41,7 +41,7 @@ p {
     font-family: 'Blinker', sans-serif;
     }
     p {
-    color: #7b8f8e;
+    color: #A1E0DF;
     font-family: 'Nunito', sans-serif;
     font-size: .75em;
     }
@@ -62,9 +62,11 @@ p {
     color: #cabd61;
     font-family: 'Nunito', sans-serif;
     }
+
      p {
     color: #c19e74;
     font-family: 'Montserrat', sans-serif;
+    font-size: .75em;
     }
 }
 
