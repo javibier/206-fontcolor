@@ -24,6 +24,7 @@ h2 {
 p {
   color: #ff8641;
   font-family: 'Blinker', sans-serif;
+  font-size: .75em;
 }
 
 /* ----------- Tablets larger than 768px wide ----------- */
